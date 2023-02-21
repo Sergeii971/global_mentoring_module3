@@ -1,0 +1,1 @@
+select * from student where phonenumber like '%714%'
